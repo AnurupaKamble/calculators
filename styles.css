@@ -78,3 +78,13 @@ body {
 	border-radius: 50%;
 	box-shadow: 0px 0px 2px #030303; 
 }
+.digits:hover,
+.mathbuttons:hover,
+#clearbutton:hover {
+	background-color: #8a7a59;
+	box-shadow: 0px 0px 2px #c29d78;
+	border-top: 2px solid #bd1111;
+	border-right: 2px solid #09819c;
+	border-bottom: 2px solid #bd1111;
+	border-left: 2px solid #09819c;
+}
