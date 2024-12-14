@@ -43,3 +43,14 @@ body {
 	text-align: right;
 	font-weight: 400;
 }
+
+.button {
+	background-color: #6875a1;
+	display: inline-block;
+	margin: 2px;
+	width: 42px;
+	height: 42px;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 50%;
+}
