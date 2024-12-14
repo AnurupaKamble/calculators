@@ -2,3 +2,12 @@ body {
 	background-color: #95bdb0;
 	font-family: Tahoma;
 }
+
+.box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height:700px;
+	width:900px;
+	padding:0 250px;
+}
